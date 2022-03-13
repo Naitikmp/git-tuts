@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    width: 20%;
+    height: 100vh;
+    margin: auto;
+}
+
+.container{
+    position:relative;
+    align-items: center;
+    /* margin: auto; */
+    top: 25%;
+
+
+
+}
+
+form{
+
+    padding:25px;
+}

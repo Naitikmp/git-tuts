@@ -13,7 +13,7 @@ app.get("/" , function(req,res){
     res.sendFile(__dirname+"/signup.html");
 })
 
-const url = "https://us14.api.mailchimp.com/3.0/lists/4f4aadd62";
+const url = "https://us14.api.mailchimp.com/3.0/lists/f4f4aadd62";
 const options = {
     method:"POST",
     auth: "nerd_ass:40e08c12f1483a473063ba3485269279-us14"
